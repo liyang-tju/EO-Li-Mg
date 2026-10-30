@@ -1,0 +1,1 @@
+Y. Zhu, L. Yang, H. Deng, Y. Wang, Y. Zheng, X. Wang, R. Zhang, Z. Jiang, Oligo(ethylene oxide)-functionalized graphene oxide membranes with precisely tailored nanochannels for efficient Li⁺/Mg²⁺ separation, *Separation and Purification Technology* **419** (2026) 140312. [https://doi.org/10.1016/j.seppur.2026.140312](https://doi.org/10.1016/j.seppur.2026.140312).
